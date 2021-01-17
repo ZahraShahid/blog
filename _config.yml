@@ -8,6 +8,7 @@ description: >
 # social links
 twitter_username: zahrashahid8 # DO NOT include the @ character, or else the build will fail!
 github_username:  https://github.com/ZahraShahid # DO NOT include the @ character, or else the build will fail!
-facebook_username: https://www.facebook.com/zahra.shahid.5623
+facebook_username: zahra.shahid.5623
+linkedin_username: zahrashahid
 
 show_excerpts: true # set to false to remove excerpts on the homepage
